@@ -1,0 +1,2 @@
+**Question** \
+Imagine you're tasked with designing a system responsible for generating various types of content dynamically based on different criteria. The types of content could range from text articles, multimedia presentations, interactive quizzes, to more. The system doesn't know in advance which exact content types will be needed—it should be flexible and extensible.

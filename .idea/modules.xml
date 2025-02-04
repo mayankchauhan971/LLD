@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ContentCreatorBasicFactory/ContentCreatorBasicFactory.iml" filepath="$PROJECT_DIR$/ContentCreatorBasicFactory/ContentCreatorBasicFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PizzaStore/PizzaStore.iml" filepath="$PROJECT_DIR$/PizzaStore/PizzaStore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wallet/Wallet.iml" filepath="$PROJECT_DIR$/Wallet/Wallet.iml" />
+    </modules>
+  </component>
+</project>
